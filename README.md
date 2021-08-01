@@ -25,7 +25,7 @@
 - link para tutorial de instalação : https://pt.wikihow.com/Instalar-o-FFmpeg-no-Windows
 
 ## como rodar o código
-- dentro do diretório do projeto, digite no terminal "python treino.py"
+- dentro do diretório do projeto, digite no terminal "python play.py"
 - OBS: o resultado do treinamento vai vir como um documento com a extensão .bk2
 
 ## como visualizar o resultado gerado
